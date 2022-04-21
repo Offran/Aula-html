@@ -1,0 +1,341 @@
+{
+  "formatVersion": 3,
+  "id": "root",
+  "ideas": {
+    "1": {
+      "title": "Desenvolvimento WEB",
+      "id": 1,
+      "attr": {
+        "position": [
+          -73,
+          -15,
+          1
+        ]
+      },
+      "ideas": {
+        "1": {
+          "title": "Internet",
+          "id": "2.5c7a.78a2d2d7a-232d.eda987883",
+          "ideas": {
+            "2": {
+              "title": "Termos chaves que desconheço mais/mais difíceis:",
+              "id": "19.5c7a.78a2d2d7a-232d.eda987883",
+              "ideas": {
+                "1": {
+                  "title": "Keylogger:\nÉ um software malicioso que fica anotando tudo que digito no teclado.",
+                  "id": "20.5c7a.78a2d2d7a-232d.eda987883",
+                  "ideas": {}
+                },
+                "2": {
+                  "title": "Phishing:\nGente que vem enganando para dar o golpe pela internet.",
+                  "id": "22.5c7a.78a2d2d7a-232d.eda987883"
+                },
+                "3": {
+                  "title": "3G/4G/5G:\nResumindo, são velocidades da internet móvel atualmente. Veremos novamente mais tarde.",
+                  "id": "23.5c7a.78a2d2d7a-232d.eda987883"
+                },
+                "4": {
+                  "title": "Cookies:\nSão dados de pesquisa que ficam salvos baseados no que o usuário pesquisou. Registros de atividade guardados para depois mostrar propagandas, etc.",
+                  "id": "24.5c7a.78a2d2d7a-232d.eda987883"
+                },
+                "5": {
+                  "title": "Firewall:\nÉ uma espécie de \"parede\", uma defesa que tem no computador, que impede certas ações que podem ser prejudiciais ao usuário.",
+                  "id": "25.5c7a.78a2d2d7a-232d.eda987883"
+                },
+                "6": {
+                  "title": "IP:\nÉ um número de endereço de tudo que está conectado na rede.",
+                  "id": "26.5c7a.78a2d2d7a-232d.eda987883",
+                  "ideas": {
+                    "1": {
+                      "title": "TCP/IP:\nProtocolos de comunicação entre computadores em rede.\n\"transmission control protocol\"\n&\n\"Internet Protocol\"",
+                      "id": "31.5c7a.78a2d2d7a-232d.eda987883",
+                      "ideas": {
+                        "1": {
+                          "title": "Para se comunicarem, precisam passar por 4 camadas:\n1- Placa de rede\n2 - Rede\n3 - Transporte (tcp, udp)\n4 - aplicação (exemplo: http)",
+                          "id": "32.5c7a.78a2d2d7a-232d.eda987883",
+                          "ideas": {
+                            "1": {
+                              "title": "Tcp x Udp:\nUDP\n>Rápido\n>Não confiável, pois os dados podem não chegar ao receptor.\n\nTCP:\n>Transporta pela conexão (mais lento)\n>É como um aplicativo de mensagens, necessitando respostas \n\n",
+                              "id": "34.5c7a.78a2d2d7a-232d.eda987883"
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                },
+                "7": {
+                  "title": "Pop-up:\nCaixinhas que ficam incomodando nos sites. ",
+                  "id": "27.5c7a.78a2d2d7a-232d.eda987883"
+                },
+                "8": {
+                  "title": "Redes:\nÉ uma espinha dorsal (backbone). Uma estrutura que liga múltiplos computadores para acesso à internet. E então a comunicação de um com o outro.",
+                  "id": "28.5c7a.78a2d2d7a-232d.eda987883",
+                  "ideas": {
+                    "1": {
+                      "title": "Caminho da rede:\nWWW -> DNS -> IP\nEssa foi a transformação de  site -> DNS reconfigurou a leitura de \"site\" para um endereço (IP)",
+                      "id": "29.5c7a.78a2d2d7a-232d.eda987883"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "position": [
+                  627,
+                  679.7916717529297,
+                  4
+                ]
+              }
+            },
+            "1.5": {
+              "title": "Celulares",
+              "id": "36.7608.b9ebc2a5b-d2b4.2c9244f37",
+              "ideas": {
+                "1": {
+                  "title": "Trocam naturalmente bits com a torre de comando e por conta disso SMS são gratuitos para as companhias de telefonia.",
+                  "id": "37.7608.b9ebc2a5b-d2b4.2c9244f37"
+                },
+                "2": {
+                  "title": "Conexões móveis:\n1G (analógico) 10kbps\n2G (digital): 97 kbps\n2.5G (GPRS): 32~80kbps (DADOS + VOZ)\n3G: 7mbps\n4G: 22,1 mbps\n5G: 10gbps",
+                  "id": "38.7608.b9ebc2a5b-d2b4.2c9244f37"
+                }
+              }
+            },
+            "1.75": {
+              "title": "Browser:\nÉ o navegador que interpreta várias linguagens de programação e de marcação. Também conteúdo de multimídia.\nPegam cache, cookies, ajudam com plug-ins personalizáveis.",
+              "id": "41.7608.b9ebc2a5b-d2b4.2c9244f37"
+            },
+            "1.875": {
+              "title": "Site:\npágina da internet. Pode ser feita em diversas linguagens de programação.\nCuriosidade:\nO HTML está caindo em desuso.",
+              "id": "42.7608.b9ebc2a5b-d2b4.2c9244f37"
+            },
+            "1.9375": {
+              "title": "Aplicativo:\nSoftware que é executado no navegador. Um app de celular, muitas vezes, é uma espécie de navegador específico.\nBasicamente é por isso que os sites andam em desuso.",
+              "id": "43.7608.b9ebc2a5b-d2b4.2c9244f37"
+            },
+            "1.96875": {
+              "title": "E-commerce:\n\"e\", assim como em \"e-mail\", é \"eletronic\"\".\n\"E-commerce\" é comércio eletrônico.\nSite de compra e venda com sistema de pagamento (o sistema pode ser integrado de outro site).",
+              "id": "44.7608.b9ebc2a5b-d2b4.2c9244f37"
+            },
+            "1.984375": {
+              "title": "Web-server:\nExistem dois tipos: \nEstático: é um servidor físico, onde são armazenados arquivos, softwares e/ou banco de dados.\nDinâmico: se refere aos softwares que estão presentes no servidor físico.",
+              "id": "45.7608.b9ebc2a5b-d2b4.2c9244f37",
+              "ideas": {
+                "1": {
+                  "title": "O servidor físico é literal. São vários computadores ou HDS.",
+                  "id": "46.7608.b9ebc2a5b-d2b4.2c9244f37"
+                }
+              }
+            },
+            "1.8125": {
+              "title": "termos chave que conheço pouco:",
+              "id": "5.5c7a.78a2d2d7a-232d.eda987883",
+              "ideas": {
+                "1": {
+                  "title": "cache:\nparte previamente salva no computador.",
+                  "id": "6.5c7a.78a2d2d7a-232d.eda987883"
+                },
+                "2": {
+                  "title": "crack:\nÉ uma \"chave\" falsa pra piratear arquivos.",
+                  "id": "7.5c7a.78a2d2d7a-232d.eda987883"
+                },
+                "3": {
+                  "title": "host:\né um servidor.",
+                  "id": "9.5c7a.78a2d2d7a-232d.eda987883"
+                },
+                "4": {
+                  "title": "HTML:\nlinguagem de marcação.\nEla pinta cores, aumenta, formata textos, etc.",
+                  "id": "10.5c7a.78a2d2d7a-232d.eda987883",
+                  "ideas": {}
+                },
+                "5": {
+                  "title": "Link:\n\"ligação\", é uma url que leva quem clicar nela até o local.",
+                  "id": "11.5c7a.78a2d2d7a-232d.eda987883"
+                },
+                "6": {
+                  "title": "Multimídia:\npermite que execute diversos tipos de mídias, textos, áudios, animações...",
+                  "id": "12.5c7a.78a2d2d7a-232d.eda987883"
+                }
+              },
+              "attr": {
+                "position": [
+                  627,
+                  -283.7708282470703,
+                  3
+                ]
+              }
+            }
+          }
+        },
+        "-1": {
+          "title": "Stacks:\nSão conjuntos de softwares necessários e suficientes para executar um app/programa.\nLinguagens de programação, ambientes e ferramentas de interação com o app.\nCapacidade e limitação de performance.",
+          "id": "47.1d10.207707d8-7795.df79fea38",
+          "ideas": {
+            "1": {
+              "title": "Importância:\n- Os líderes precisam das infos das equipes de desenvolvimento.\n- Os dedsenvolvedores precisam saber as limitações e capacidades das ferramentas e ambientes que têm disponíveis.\n- Sistemas, bancos de dados, linguagens de programação, protocólos de comunicação.",
+              "id": "48.1d10.207707d8-7795.df79fea38",
+              "ideas": {
+                "1": {
+                  "title": "Full stack:\nProffisional que sabe trabalhar em todas as camadas da tecnologia de desenvolvimento.",
+                  "id": "53.1d10.207707d8-7795.df79fea38",
+                  "attr": {
+                    "position": [
+                      345,
+                      84.02082824707031,
+                      1
+                    ]
+                  }
+                }
+              }
+            },
+            "2": {
+              "title": "Back-end:\n\"Parte de trás\".\nServidores, banco de dados.\n\"meio-de-campo\" entre a interface e banco de dados, regras de negócios, validações.\nMySQL, Oracle, PHP, Java, node,js...",
+              "id": "49.1d10.207707d8-7795.df79fea38",
+              "attr": {
+                "position": [
+                  177,
+                  355.00001525878906,
+                  1
+                ]
+              }
+            },
+            "0.5": {
+              "title": "Front-end:\n\"parte da frente\".\nSite, software, app, web service.\nTrabalha com a interface do usuário.\nLógicas de programação:\nHTML, CSS,jQuery/JS/AJAX, PHP, Bootstrap...",
+              "id": "51.1d10.207707d8-7795.df79fea38",
+              "attr": {
+                "position": [
+                  167.9999794960022,
+                  -291,
+                  2
+                ]
+              }
+            }
+          }
+        },
+        "-11": {
+          "title": "Lp's:\n\"Linguagens de programação\".",
+          "id": "56.1d10.207707d8-7795.df79fea38",
+          "attr": {
+            "position": [
+              237,
+              450.00001525878906,
+              1
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "Principais LPS:\nHTML CSS (não são lps, são linguagens de marcação).\nE então temos:\nCSS, Javascript, PHP, .NET, ASP, Java, Python, C/C++/C#, Perl, Ryby (on Rails).",
+              "id": "57.1d10.207707d8-7795.df79fea38"
+            },
+            "2": {
+              "title": "Termos comuns:\n",
+              "id": "58.1d10.207707d8-7795.df79fea38",
+              "ideas": {
+                "1": {
+                  "title": "404- \"not found\"",
+                  "id": "59.1d10.207707d8-7795.df79fea38"
+                },
+                "2": {
+                  "title": "Biblioteca/dll:\nconjunto de ferramentas que pode oferecer recursos.",
+                  "id": "60.1d10.207707d8-7795.df79fea38",
+                  "ideas": {}
+                },
+                "3": {
+                  "title": "ALT: é a informação que mostra quando para o mouse em cima de algum local e então abre a caixinha com info sobre o que estiver abaixo da seta.",
+                  "id": "62.1d10.207707d8-7795.df79fea38"
+                },
+                "4": {
+                  "title": "API:\nÉ como uma caixa de login. Onde se coloca as informações para uma aplicação (como logar).",
+                  "id": "63.1d10.207707d8-7795.df79fea38"
+                },
+                "5": {
+                  "title": "Breackpoint:\nSão os pontos que paramos os cíodigos para poder melhor analisá-los.",
+                  "id": "64.1d10.207707d8-7795.df79fea38"
+                },
+                "6": {
+                  "title": "Código:\nÉ o código fonte. Feito em uma linguagem ou mais. ",
+                  "id": "65.1d10.207707d8-7795.df79fea38",
+                  "ideas": {}
+                },
+                "7": {
+                  "title": "Controle de versão:\nSão softwares que controlam versões, como o próprio git e github.",
+                  "id": "67.1d10.207707d8-7795.df79fea38"
+                },
+                "17": {
+                  "title": "Debug:\nÉ um processo de limpar falhas de lógicas ou possíveis bugs.",
+                  "id": "69.1d10.207707d8-7795.df79fea38",
+                  "attr": {
+                    "position": [
+                      123.99999523162842,
+                      177,
+                      1
+                    ]
+                  },
+                  "ideas": {}
+                },
+                "18": {
+                  "title": "Design adaptativo:\nÉ um design que se adapta. Todo e qualquer app/site que se preze tem esse tipo de design responsivo.",
+                  "id": "71.1d10.207707d8-7795.df79fea38",
+                  "attr": {}
+                },
+                "19": {
+                  "title": "DNS:\nDOMAIN NAME SERVICE:\ntradutor de ip pra site.",
+                  "id": "72.1d10.207707d8-7795.df79fea38",
+                  "ideas": {},
+                  "attr": {}
+                },
+                "20": {
+                  "title": "Documentação externa:\nManual do usuário.\nDocumentação interna:\nComentários no meio do código que o explicam.",
+                  "id": "74.1d10.207707d8-7795.df79fea38",
+                  "ideas": {},
+                  "attr": {}
+                },
+                "21": {
+                  "title": "DPI:\nproporção de pontos na tela. Quanto mais pontos, melhor a resolução.",
+                  "id": "76.1d10.207707d8-7795.df79fea38",
+                  "ideas": {},
+                  "attr": {}
+                },
+                "22": {
+                  "title": "Framework:\ntaxa de ferramentas disponível para o usuário.",
+                  "id": "78.1d10.207707d8-7795.df79fea38",
+                  "attr": {},
+                  "ideas": {}
+                },
+                "23": {
+                  "title": "Sistema operacional:\nLinux/MAC/Windows",
+                  "id": "81.1d10.207707d8-7795.df79fea38"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "title": "",
+  "links": [
+    {
+      "ideaIdFrom": "51.1d10.207707d8-7795.df79fea38",
+      "ideaIdTo": "53.1d10.207707d8-7795.df79fea38",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    },
+    {
+      "ideaIdFrom": "49.1d10.207707d8-7795.df79fea38",
+      "ideaIdTo": "53.1d10.207707d8-7795.df79fea38",
+      "attr": {
+        "style": {
+          "color": "#707070",
+          "lineStyle": "solid",
+          "arrow": "to"
+        }
+      }
+    }
+  ]
+}
